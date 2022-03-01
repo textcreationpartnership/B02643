@@ -1,0 +1,450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the four seasons or quarters of the year, as spring, summer, autumn and winter. Likewise of beautie, the bees and ants, and also on prodigality.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02643</idno>
+            <idno type="STC">Wing D1159</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[334]</idno>
+            <idno type="EEBO-CITATION">99886991</idno>
+            <idno type="PROQUEST">ocm99886991</idno>
+            <idno type="VID">181655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181655)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[337])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the four seasons or quarters of the year, as spring, summer, autumn and winter. Likewise of beautie, the bees and ants, and also on prodigality.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Rob[ert]. Walton at the Globe and Compasses, at the west-end of St. Pauls Church, turning down towards Ludgate ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Printer's name from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "The [...]lades their influence now give ..."</note>
+                  <note>The imprint continues with an advertisement of what can be had at Walton's establishment.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seasons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poems">
+            <pb facs="tcp:181655:1" rendition="simple:additions"/>
+            <head>A Deſcription OF THE Four Seaſons or Quarters of the YEAR, AS <hi>SPRING, SUMMER, AUTUMN</hi> and <hi>WINTER. Likewiſe of Beautie, the Bees and Ants, and alſo on Prodigality.</hi>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>personification of seasons</figDesc>
+                  <figure>
+                     <p>spring</p>
+                  </figure>
+                  <figure>
+                     <p>summer</p>
+                  </figure>
+                  <figure>
+                     <p>autumn</p>
+                  </figure>
+                  <figure>
+                     <p>winter</p>
+                  </figure>
+                  <byline>Ro: Walton excutlit</byline>
+               </figure>
+            </p>
+            <lg>
+               <head>SPRING.</head>
+               <l>THE <hi>Pleiades</hi> their influence now give,</l>
+               <l>And all that ſeem'd as dead afreſh, do live.</l>
+               <l>The croaking Frogs, whom nipping Winter kill'd,</l>
+               <l>Like Birds, now chirp, and hop about the field;</l>
+               <l>The Nightingale, the Black-bird and the Thruſh,</l>
+               <l>Now tune their layes on ſprayes of every buſh;</l>
+               <l>The wanton frisking Kids, and ſoft-fleec't Lambs,</l>
+               <l>Now jump, and play before their feeding Dams;</l>
+               <l>The tender tops of budding Graſs they crop,</l>
+               <l>They joy in what they have, but more in hope.</l>
+               <l>This is that part, whoſe fruitful ſhowers produces</l>
+               <l>All Plants and Flowers for all delights and uſes;</l>
+               <l>The Pear, the Plum, and Apple-tree now flouriſh:</l>
+               <l>The Prim-Roſe pale and Azure Violer,</l>
+               <l>Among the verduous Graſs hath Nature ſet;</l>
+               <l>But chief of all the pleaſant fruitful <hi>May,</hi>
+               </l>
+               <l>Wherein the Earth is clad in rich array:</l>
+               <l>All Flowers before the Sun-beams now diſcloſes</l>
+               <l>Except the double Pinks, and matchleſs Roſes.</l>
+               <l>Now ſwarms the buſie buzzing Honey-Bee,</l>
+               <l>Whoſe praiſe deſerves a page, from more then me.</l>
+               <l>The Meads with Cowſlips, Honey-ſuckles dight,</l>
+               <l>One hangs his head, the other ſtands upright:</l>
+               <l>For fruit my Seaſon yields the early cherry,</l>
+               <l>The early Peaſe and wholeſom red Strawberry.</l>
+            </lg>
+            <lg>
+               <head>On Beauty.</head>
+               <l>
+                  <hi>WOuld fooliſh Females, with their Features,</hi>
+               </l>
+               <l>
+                  <hi>Remember they're but mortal Creatures,</hi>
+               </l>
+               <l>
+                  <hi>Of which rightly Man may ſay,</hi>
+               </l>
+               <l>
+                  <hi>They're but beauteous Clods of Clay;</hi>
+               </l>
+               <l>
+                  <hi>Or refined, though pure duſt,</hi>
+               </l>
+               <l>
+                  <hi>From whence they came, and thither muſt.</hi>
+               </l>
+               <l>
+                  <hi>And that as their great Grand-dame dy'de before,</hi>
+               </l>
+               <l>
+                  <hi>Even ſo mvſt they, and then be ſeen no more.</hi>
+               </l>
+               <l>
+                  <hi>And all their Gaudy Glory be forgot,</hi>
+               </l>
+               <l>
+                  <hi>Whilſt they muſt lie, conſume, yea, ſtink and rot.</hi>
+               </l>
+               <l>
+                  <hi>If theſe things they would to remembrance call,</hi>
+               </l>
+               <l>
+                  <hi>Their Honey'd Pleaſures would be mixt with Gall,</hi>
+               </l>
+               <l>
+                  <hi>And all and every one their courſe would bend,</hi>
+               </l>
+               <l>
+                  <hi>Within themſelves, what is amiſs to mend.</hi>
+               </l>
+               <l>
+                  <hi>The Memory unto the ſoul is food.</hi>
+               </l>
+               <l>
+                  <hi>That thinks, and ſays, and doth the things that's good.</hi>
+               </l>
+               <l>
+                  <hi>But Showes of Virtue, hiding of their Vice,</hi>
+               </l>
+               <l>
+                  <hi>Bring ſimple Ga lant-s to th' Fools Paradiſe:</hi>
+               </l>
+               <l>
+                  <hi>For when the Heart thinks Luſt abomination,</hi>
+               </l>
+               <l>
+                  <hi>Senſe nick-names it but Youthful Recreation.</hi>
+               </l>
+               <l>
+                  <hi>Reaſon delights in Liberality,</hi>
+               </l>
+               <l>
+                  <hi>Which Senſe perverts to Prodigality.</hi>
+               </l>
+               <l>
+                  <hi>And thus this little Kingdom, Man, doth fade,</hi>
+               </l>
+               <l>
+                  <hi>With hearing Traitors when they do perſwade.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>SUMMER.</head>
+               <l>
+                  <hi>SPring</hi> being paſt, then <hi>Summer</hi> muſt begin,</l>
+               <l>With melted Tawny face, and Garments thin.</l>
+               <l>Now go thoſe frolick Swains, the Shepherd-Lad,</l>
+               <l>To waſh their thick-cloath'd Flocks, with Pipes full glad.</l>
+               <l>In the cool ſtreams they labour with delight,</l>
+               <l>Rubbing their dirty coats till they look white.</l>
+               <l>Whoſe fleeces, when purely ſpun, and deeply dy'de,</l>
+               <l>With Robes thereof Kings have been dignifyde,</l>
+               <l>This part the Roſes are diſtill'd in Glaſſes,</l>
+               <l>Whoſe fragrant Scent all made-Perfume ſurpaſſes;</l>
+               <l>The Cherry, Gooſ-berry, is now in th' prime,</l>
+               <l>And for all ſorts of Peaſe this is the Time.</l>
+               <l>On goes the Mowers to their flaſhing Toyle,</l>
+               <l>The Medows of their burdens to deſpoil;</l>
+               <l>The Forks and Rakes do follow them amain,</l>
+               <l>Which makes the Aged Fields look young again;</l>
+               <l>The loaden Carts do bear away this Prize</l>
+               <l>To Barns and Stacks, where it for Fodder lies,</l>
+               <l>With Sickles eke, the painful Reapers go,</l>
+               <l>The ruffling Treſs of <hi>Terra</hi> for to Mow;</l>
+               <l>And bundles up in ſheaves the weighty Wheat,</l>
+               <l>Which after Manchets make for Kings to eat;</l>
+               <l>Now's ripe the Pear, Pear-Plum and Apricock,</l>
+               <l>The Prince of Plums, whoſe ſtone is hard as Rock.</l>
+            </lg>
+            <lg>
+               <head>On the Ants.</head>
+               <l>I Walk't, and did a little Mole-hill view,</l>
+               <l>Full peopled with a moſt induſtrious Crew</l>
+               <l>Of buſie Ants, where each one laboured more,</l>
+               <l>Then if he were to bring home <hi>Indian</hi> Ore;</l>
+               <l>Here wrought the Pioneers, there marcht the Bands,</l>
+               <l>Here Colonies went forth to Plant new Lands:</l>
+               <l>Theſe haſted out, and thoſe ſupplies brought in,</l>
+               <l>As if they had ſome ſudden ſiege foreſeen:</l>
+               <l>Until there came an angry Spade, and caſt</l>
+               <l>Countrey and People to a Pit at laſt.</l>
+            </lg>
+            <p>And therefore as <hi>Solomon</hi> ſaith, <hi>Go to the Ant thou Sluggard, con<g ref="char:EOLhyphen"/>ſider her ways and be wiſe,</hi> Prov. 16.6. <hi>For though they are not ſtrong, yet they prepare their meat in the Summer,</hi> Prov 30.25.</p>
+            <lg>
+               <head>On the Bees.</head>
+               <l>AGAIN I view'd a Kingdom in an Hive,</l>
+               <l>Where every one did work, and ſo all thrive;</l>
+               <l>Some go, ſome come, ſome war, ſome watch and wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</l>
+               <l>Some make the works, and ſome the works do Guard.</l>
+               <l>Theſe frame their curious waxen Cells, and thoſe</l>
+               <l>Do into them their <hi>Nectar</hi>-drops diſpoſe:</l>
+               <l>Until the greedy Gard'ner brought his ſmoke,</l>
+               <l>And for the Work, did all the Workmen choke.</l>
+            </lg>
+            <lg>
+               <head>AUTUMN.</head>
+               <l>THE Vintage now is ripe, the Grapes are preſt,</l>
+               <l>Whoſe lively Liquor oft is curſt and bleſt;</l>
+               <l>The Raiſins now in cluſters dried be,</l>
+               <l>The Oringe, Lemon dangle on the Tree;</l>
+               <l>The Fig is ripe, the Pomegranate alſo,</l>
+               <l>And Apples now their yellow ſides do ſhow;</l>
+               <l>Of Medler, Quince, of Warden and of Peach,</l>
+               <l>The Seaſon's now at hand of all and each;</l>
+               <l>The fruitful Trees, all wither'd now do ſtand,</l>
+               <l>Whoſe yellow ſapleſs leaves by wind are fann'd:</l>
+               <l>Which notes, when youth and ſtrength have paſt their prime,</l>
+               <l>Decrepit Age muſt alſo have his time:</l>
+               <l>The ſap doth ſlily creep towards the Earth,</l>
+               <l>There reſts until the Sun gives it a birth:</l>
+               <l>Almoſt at ſhorteſt is the ſhortned day,</l>
+               <l>The Northern pole beholdeth not one Ray!</l>
+               <l>Now <hi>Greenland, Groenland, Lapland, Finland,</hi> ſee</l>
+               <l>No Sun to lighten their obſcurity.</l>
+               <l>This Month is Timber for all uſes fell'd,</l>
+               <l>When cool'd, the ſap to the roots hath low'ſt repell'd:</l>
+               <l>Beef, Brawns and Pork are now in great'ſt requeſt.</l>
+               <l>And ſolio'ſt meats our ſtomacks can digeſt:</l>
+               <l>This time warm cloaths, full diet, and good fires,</l>
+               <l>Our pinching fleſh, and appetite requires<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <head>On Prodigality.</head>
+               <l>I <hi>Dread when I do ſee a Prodigal,</hi>
+               </l>
+               <l>
+                  <hi>On whom a fair Eſtate of late did fall:</hi>
+               </l>
+               <l>
+                  <hi>When as is ſpent his Credit and his Chink,</hi>
+               </l>
+               <l>
+                  <hi>And he quite waſted, to a ſnuff doth ſtink,</hi>
+               </l>
+               <l>
+                  <hi>Who in the Spring or Summer of his Pride.</hi>
+               </l>
+               <l>
+                  <hi>Was worſhipt, honour'd, almoſt deifi'd:</hi>
+               </l>
+               <l>
+                  <hi>And whilſt the Golden Angels did attend him,</hi>
+               </l>
+               <l>
+                  <hi>What ſwarmes of Friends and Kindred did befriend him:</hi>
+               </l>
+               <l>
+                  <hi>Perſwading him, that give, and ſpend, and lend,</hi>
+               </l>
+               <l>
+                  <hi>Were Virties which on Gentry do depend.</hi>
+               </l>
+               <l>
+                  <hi>But though of late be ſeem'd in wealth to ſwim,</hi>
+               </l>
+               <l>
+                  <hi>Yet many b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe occaſions do ſuck him.</hi>
+               </l>
+               <l>
+                  <hi>The Prodigals Eſtate, like to a Flux.</hi>
+               </l>
+               <l>
+                  <hi>The Mercer, Draper, and the Silk-man plucks.</hi>
+               </l>
+               <l>
+                  <hi>The Tailor, Millener, Dogs, Drabs and Dice,</hi>
+               </l>
+               <l>
+                  <hi>Trey-trip, or Paſſage, or the moſt at thrice:</hi>
+               </l>
+               <l>
+                  <hi>At Iriſh, Tick-tack, Doublets, Draughts or Cheſs,</hi>
+               </l>
+               <l>
+                  <hi>He flings his Money free with careleſsneſs;</hi>
+               </l>
+               <l>
+                  <hi>Kuff, Slam, Trump, Nod, Whisk, Hole, Saut, New Cut;</hi>
+               </l>
+               <l>
+                  <hi>Unto the keeping of four Knaves he'll put.</hi>
+               </l>
+               <l>
+                  <hi>Bowles, Shove-groate, Tennis, no Game comes amiſs,</hi>
+               </l>
+               <l>
+                  <hi>His Purſe a Nurſe for any body is:</hi>
+               </l>
+               <l>
+                  <hi>His vain Expences daily ſuck and ſoak,</hi>
+               </l>
+               <l>
+                  <hi>And be himſelf ſucks only drink and ſmoak:</hi>
+               </l>
+               <l>
+                  <hi>And thus the Prodigal, himſelf alone</hi>
+               </l>
+               <l>
+                  <hi>Giv's ſuck to Thouſands, and himſelf ſucks none.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>WINTER.</head>
+               <l>COLD, Moiſt, young Phlegmy Winter now doth le</l>
+               <l>In ſwadling Clothes, like new-born Infancie;</l>
+               <l>Bound up with Froſts, and Fur'd with Hails and Snows,</l>
+               <l>And like an Infant ſtill he taller grows.</l>
+               <l>
+                  <hi>December</hi> is the firſt; And now the Sun</l>
+               <l>To th' Southward Tropick her ſwift Race hath run<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>This Month he's Hous'd in horned <hi>Capricorn,</hi>
+               </l>
+               <l>From thence begins to length the ſhortned Morn:</l>
+               <l>Through <hi>Chriſtendom</hi> with great Feſtivity,</l>
+               <l>Now's held, a Gueſt, (but bleſt) Nativity.</l>
+               <l>Old frozen <hi>January</hi> next comes in,</l>
+               <l>Chilling the blood, and ſhrinking up the skin.</l>
+               <l>In <hi>Aquarius</hi> now keeps the loved Sun,</l>
+               <l>And Northward his unwearied Race doth run,</l>
+               <l>The day much longer then it was before,</l>
+               <l>The Cold not leſsned, but augmented more.</l>
+               <l>Now Toes, and Ears, and Fingers often freeze,</l>
+               <l>And Travellers ſomtimes their Noſes leeze.</l>
+               <l>Moiſt ſnowie <hi>February</hi> is my laſt,</l>
+               <l>
+                  <hi>I</hi> care not how the Winter-time doth haſt;</l>
+               <l>In <hi>Piſces</hi> now the Golden Sun doth ſhine,</l>
+               <l>And Northward ſtill approaches to the line;</l>
+               <l>The Rivers now do ope, and Snows do melt,</l>
+               <l>And ſome warm Glances from the Sun are felt,</l>
+               <l>Which is increaſed by the lengthned day,</l>
+               <l>Until by's heat he drives all Cold away.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed and ſold by <hi>Rob. Walton</hi> at the <hi>Globe</hi> and <hi>Compaſſes;</hi> at the Weſt-end of <hi>St. Pauls</hi> Church, turning down to<g ref="char:EOLhyphen"/>wards <hi>Ludgate,</hi> where you may be fitted with <hi>All ſorts of Maps and Copy-books, large or ſmall, Coloured or not, the Marrow of Humane Learning, the Lawrel of Metaphyſick, an Artificial Deſcription of Logick, the Tree of Mans Life, His Majeſty in Armour on Horſback, and underneath the Manner of his Riding through</hi> London <hi>the day before his Coronation, another of him in Parliament Robes, and underneath the Man<g ref="char:EOLhyphen"/>ner of his going to his Coronation, the King and Queen, the Story of</hi> David <hi>and</hi> Abigail, Orpheus <hi>Playing on his Mu<g ref="char:EOLhyphen"/>ſick, and Beaſts about him, the Manner of the tortures uſed by the Heathen Emperours of</hi> Rome <hi>on the Chriſtians, and a Compariſon of the like bloody cruelties uſed by the Pope and that Party ſince they got up, a Deſcription of the four Ages of Man,</hi> Childhood, Youth Middle-Age <hi>and</hi> Old Age, <hi>a De<g ref="char:EOLhyphen"/>ſcription of the four Elements,</hi> Earth, Water, Fie <hi>and</hi> Air, A <hi>Looking-Glaſſe for Youth, 1. The Devilentices Youth. 2. Wiſ<g ref="char:EOLhyphen"/>dom gives good Advice to Youth. 3. Time declares his Experi<g ref="char:EOLhyphen"/>ence to Youth. 4. Death ſounds an Alarum to Youth. 5. Youth Reaſons with Death. 6. The Soul ſpeaks to the Devil. 7. All is Vanity. And 8. Of the Chief Good. The four Elements, each with Borders about them, and Verſes, all theſe in large ſheets, and many others, that here is not ſpace to mention. And he is the oldeſt in</hi> London <hi>in that way, and doth truly ſay, as the Poet,</hi>
+               <q>
+                  <l>That when each Man keeps to his own Trade,</l>
+                  <l>Then all thing will be better made.</l>
+               </q>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
